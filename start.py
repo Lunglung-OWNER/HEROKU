@@ -1,4 +1,4 @@
- from os 
+ from 
 repo = "https://github.com/JASS697/BLAC-2.0-USERBOT"
 main = "userbot"
 system ("git clone {} && cd BLAC-2.0-USERBOT && python3 -m {}".format(repo, main))
