@@ -1,5 +1,5 @@
 from os import system # chala ja bhai
-system ("git clone https://GitHub.com/LEGENDXOP/MASTERBOT && cd MASTERBOT && python3 -m ULTRA")
+system ("git clone https://GitHub.com/JASS697/JATT-OP-BOT && cd JATT-OP-BOT && python3 -m ULTRA")
 # try af
 print("OH SYSTEM IS CRASHED")
 system("python3 -m ULTRA")
