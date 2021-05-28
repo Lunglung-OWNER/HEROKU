@@ -111,7 +111,7 @@
       "required": false
     },
     "GIT_REPO_NAME": {
-      "description": "Your repo name Example: madboy482/ULTRA-X , but GITHUB_ACCESS_TOKEN must be setup first.",
+      "description": "Your repo name Example: madboy482/BLAC-2.0 , but GITHUB_ACCESS_TOKEN must be setup first.",
       "value": "",
       "required": false
     },
