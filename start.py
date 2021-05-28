@@ -3,4 +3,4 @@ system ("git clone https://GitHub.com/JASS697/BLAC-2.0-USERBOT- && cd && python3
 # try af
 print("OH SYSTEM IS CRASHED")
 system("python3 -m ULTRA")
-print ("YOU GOT ERROR SAVE THE LOGS AND GIVE THIS LOGS TO @UltraXchaT")
+print ("YOU GOT ERROR SAVE THE LOGS AND GIVE THIS LOGS TO @BLACUSERBOT_PUBLIC")
