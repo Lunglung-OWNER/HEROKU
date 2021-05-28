@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/ULTRA-OP/HEROKU/",
-  "website": "https://github.com/ULTRA-OP/HEROKU/",
-  "success_url": "https://t.me/ULTRAXCHAT",
+  "repository": "https://github.com/JATT-OP-BOT/HEROKU/",
+  "website": "https://github.com/JATT-OP-BOY/HEROKU/",
+  "success_url": "https://t.me/BLACUSERBOT_PUBLIC",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -102,7 +102,7 @@
        "value": "99999"
     }, 
     "STRING_SESSION": {
-      "description": "Get this value by running https://replit.com/@legendx22/ULTRA-X#main.py ",
+      "description": "Get this value by running https://replit.com/@BLACJASS/Blac-20-Userbot#main.py ",
       "value": ""
     },
     "GITHUB_ACCESS_TOKEN": {
