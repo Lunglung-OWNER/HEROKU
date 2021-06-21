@@ -1,6 +1,6 @@
 from os import system # chala ja bhai
-system ("git clone https://GitHub.com/LEGENDXOP/MASTERBOT && cd MASTERBOT && python3 -m ULTRA")
+system ("git clone https://GitHub.com/Lunglung-OWNER/pemulung-userbot && cd pemulung-userbot && python3 -m pemulung")
 # try af
-print("OH SYSTEM IS CRASHED")
-system("python3 -m ULTRA")
-print ("YOU GOT ERROR SAVE THE LOGS AND GIVE THIS LOGS TO @UltraXchaT")
+print("bot nya crash bang,makannya yang bener pasang nya")
+system("python3 -m pemulung")
+print ("pasang yang bener begoo")
